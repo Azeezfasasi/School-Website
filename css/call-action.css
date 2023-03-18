@@ -27,6 +27,10 @@
     vertical-align: top;
 }
 
+.call-text h1 {
+    font-weight: bold;
+}
+
 .call-text h2 {
     font-weight: bold;
 }

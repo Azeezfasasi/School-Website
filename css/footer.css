@@ -28,11 +28,25 @@ footer {
     margin-left: 8px;
 }
 
+.footer-1 p {
+    color: white;
+    font-size: 25px;
+    margin-left: 8px;
+}
+
 .footer-2 a {
     display: block;
     color: white;
     text-decoration: none;
     line-height: 25px;
+}
+
+.footer-3 p {
+    color: white;
+}
+
+.footer-4 p {
+    color: white;
 }
 
 input[type=email] {
