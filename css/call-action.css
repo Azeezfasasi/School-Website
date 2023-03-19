@@ -78,6 +78,10 @@
         margin-top: 10px;
     }
 
+    .call-image img {
+        width: 250px;
+    }
+
     .call-text {
         display: block;
         width: 95%;

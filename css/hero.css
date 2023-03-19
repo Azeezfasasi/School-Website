@@ -1,13 +1,6 @@
 /* style for hero section */
 .hero-start {
     width: 100%;
-    /* background-image: url("img/business.jpg");
-    height: 70%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-y: top;
-    opacity: 1; */
     background-color: darkseagreen;
     padding-bottom: 20px;
 }
@@ -74,7 +67,7 @@
     .hero-text {
         display: block;
         position: absolute;
-        width: 80%;
+        width: 90%;
         margin-top: 50px;
         margin-left: 16px;
     }
@@ -82,4 +75,8 @@
     .hero-banner {
         display: none;
     }   
+
+    .hero-btn {
+        font-size: 20px;
+    }
 }
